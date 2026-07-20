@@ -106,6 +106,7 @@ import AppearingText from "../../../components/AppearingText.vue";
     bottom: 0;
     right: -16px;
     z-index: 10;
+    white-space: nowrap;
     transform: rotate(-5deg) translate(0, 65%);
 
     @include mixins.mq("sm") {
