@@ -3,16 +3,16 @@ import thumbnailQuibbo from "../../../assets/thumbnails/quibbo.webp";
 //import thumbnailParticles from "../../../assets/thumbnails/particles.webp";
 import thumbnailPokedex from "../../../assets/thumbnails/pokedex.webp";
 import thumbnailSharkie from "../../../assets/thumbnails/sharkie.webp";
-import thumbnailStreakon from "../../../assets/thumbnails/streakon.webp";
+import thumbnailLastmile from "../../../assets/thumbnails/lastmile.png";
 
 import type { ProjectPreview } from "../../types";
 
 export default [
   {
-    title: "StreakOn",
-    slug: "streakon",
-    thumbnail: thumbnailStreakon,
-    description: "Social habit tracking app",
+    title: "Last Mile",
+    slug: "lastmile",
+    thumbnail: thumbnailLastmile,
+    description: "Last-mile route optimization app",
   },
   {
     title: "CubeWar",

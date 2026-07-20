@@ -91,6 +91,21 @@ const classes = computed(() => ["tag", `tag-variant-${props.variant}`]);
       background-color: #95630e;
       color: white;
     }
+
+    &-python {
+      background-color: #3776ab;
+      color: white;
+    }
+
+    &-streamlit {
+      background-color: #ff4b4b;
+      color: white;
+    }
+
+    &-pandas {
+      background-color: #150458;
+      color: white;
+    }
   }
 }
 </style>
