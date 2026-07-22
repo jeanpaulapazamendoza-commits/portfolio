@@ -15,7 +15,9 @@ export type TagVariant =
   | "glsl"
   | "python"
   | "streamlit"
-  | "pandas";
+  | "pandas"
+  | "beautifulsoup"
+  | "selenium";
 
 export const tagLabels = {
   three: "Three.js",
@@ -35,4 +37,6 @@ export const tagLabels = {
   python: "Python",
   streamlit: "Streamlit",
   pandas: "Pandas",
+  beautifulsoup: "BeautifulSoup",
+  selenium: "Selenium",
 } as const satisfies Record<TagVariant, string>;

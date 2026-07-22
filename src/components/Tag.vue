@@ -106,6 +106,16 @@ const classes = computed(() => ["tag", `tag-variant-${props.variant}`]);
       background-color: #150458;
       color: white;
     }
+
+    &-beautifulsoup {
+      background-color: #2c7a3f;
+      color: white;
+    }
+
+    &-selenium {
+      background-color: #43b02a;
+      color: white;
+    }
   }
 }
 </style>

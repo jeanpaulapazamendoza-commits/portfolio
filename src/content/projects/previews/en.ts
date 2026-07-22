@@ -1,4 +1,4 @@
-import thumbnailCubeWar from "../../../assets/thumbnails/cubewar.webp";
+import thumbnailWebScraping from "../../../assets/thumbnails/webscraping.jpg";
 import thumbnailQuibbo from "../../../assets/thumbnails/quibbo.webp";
 //import thumbnailParticles from "../../../assets/thumbnails/particles.webp";
 import thumbnailPokedex from "../../../assets/thumbnails/pokedex.webp";
@@ -15,10 +15,10 @@ export default [
     description: "Last-mile route optimization app",
   },
   {
-    title: "CubeWar",
-    slug: "cubewar",
-    thumbnail: thumbnailCubeWar,
-    description: "Multiplayer strategy game",
+    title: "Web Scraping",
+    slug: "webscraping",
+    thumbnail: thumbnailWebScraping,
+    description: "Supermarket product data extractor",
   },
   {
     title: "Quibbo",
